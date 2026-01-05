@@ -106,11 +106,7 @@ This project aims to help practitioners understand:
 
 ## 👤 Author
 
-**Gudala Geeta Ramcharan**  
-Machine Learning Enthusiast | NLP Researcher  
-GitHub: [Ramcharan2905](https://github.com/Ramcharan2905)
-
----
+**Emmati Chiranjeevi Shyam**
 
 ## ⭐ Acknowledgments
 
